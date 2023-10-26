@@ -6,36 +6,28 @@ display("Nim:112022064")
 display("Kelas:D")
 
 
-display("soal 41")
-
 %Soal 4.1
 
-%Matrik A
-
+%Diketahui Matrik A dan B
 
 A = [ 1 2 3; 2 1 1; 3 2 1]
 
-%Matrik B
-
 B = [ 4 4 5; 6 1 2; 3 5 5]
 
-%Determinan Matrik A dan Matrik B
 
+%Determinan Matrik A dan Matrik B
 bDeterminanA=det(A)
 bDeterminanB=det(B)
 
 %Ukuran Dari Matrik A dan Matrik B
-
 bUkuranA=size(A)
 bUkuranB=size(B)
 
 %Trace Dari Matrik A dan Matrik B
-
 cTraceA=trace(A)
 cTraceB=trace(B)
 
 %Norm Matrik A dan Matrik B
-
 dA=norm(A)
 dB=norm(B)
 
