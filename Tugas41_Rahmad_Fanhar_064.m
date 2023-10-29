@@ -6,7 +6,10 @@ disp('Nim       : 112022064')
 disp('Kelas     : D')
 disp('===================================================================')
 
-disp('Jawab Soal 4.1')
+%Catatan : Untuk melihat hasil atau jawabannya dari code yang saya buat ini
+%bisa dilakukan "RUN" pada software MATLAB
+
+disp('Jawaban untuk soal 4.1')
 
 %4.1
 
