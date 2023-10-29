@@ -6,6 +6,9 @@ disp('Nim       : 112022064')
 disp('Kelas     : D')
 disp('===================================================================')
 
+%Catatan : Untuk melihat hasil atau jawabannya dari code yang saya buat ini
+%bisa dilakukan "RUN" pada software MATLAB
+
 disp('Jawab Soal 4.2')
 
 %penyelesaian dari soal 4.2
